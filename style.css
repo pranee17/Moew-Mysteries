@@ -1,0 +1,18 @@
+button{
+    border-radius: 25px;
+    padding: 10px;
+    background-color: #D7E6FA;
+}
+button:hover{
+    cursor: pointer;
+}
+#card{
+    text-align: center;
+    justify-content: center;
+    padding: 5.2rem;
+    border-radius: 2rem;
+    background-color: #faebd7;
+    height:190px;
+    
+
+}
